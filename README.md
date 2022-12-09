@@ -17,7 +17,7 @@
 
 <br/>  
 
-<table border=none><tr border=none><td valign="top" width="50%" border=none>
+<table border=none bordercolor=black><tr border=none bordercolor=black><td valign="top" width="50%" border=none bordercolor=black>
 
 
 
