@@ -17,7 +17,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table border=none><tr border=none><td valign="top" width="50%" border=none>
 
 
 
@@ -76,6 +76,3 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 </div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
