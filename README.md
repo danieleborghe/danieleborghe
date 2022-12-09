@@ -69,11 +69,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=danieleborghe&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true)" align="center" style="width: 100%" /></div>
+<div align="center" border: none><img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center" border: none><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
