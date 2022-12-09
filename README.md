@@ -17,7 +17,7 @@
 
 <br/>  
 
-<table border=none bordercolor=black><tr border=none bordercolor=black><td valign="top" width="50%" border=none bordercolor=black>
+<div valign="top" width="50%" border=none bordercolor=black>
 
 
 
@@ -37,8 +37,8 @@
 - 👽 Sci-Fi addicted  
 
 
-</td><td valign="top" width="50%">
-
+</div>
+<div valign="top" width="50%" border=none bordercolor=black>
 
 
 ### Some stats  
@@ -46,7 +46,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td></tr></table>  
+<\div>
 
 <br/>  
 
