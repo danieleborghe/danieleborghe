@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### **<div align="center">I'm Daniele Borghesi!</div>**  
+# **Hello World! 👋 I'm Daniele!**  
   
 
 - 📚 I'm currently studying [Data Science](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) at University of Pisa, in Italy  
@@ -15,7 +10,10 @@
 - 🔭 Fascinated by Machine Learning, Natural Language Processing and Computational Psycho- and Neuro-Linguistics  
   
 
-- 🛰️ Interested in scientific research, technology and politics  
+- 🛰️ Interested in scientific research, technology, and politics, occasionally you can find me in the gym  
+  
+
+- 👽 Sci-Fi addicted  
   
 
 - *✒️ I need the carbon monoxide to survive...*  
@@ -67,7 +65,17 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
