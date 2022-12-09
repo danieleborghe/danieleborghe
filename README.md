@@ -69,5 +69,5 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&count_private=true&hide_border=true" align="left" width=52%/>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&hide_border=true&layout=compact" align="right" width=45%/></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&hide_border=true&layout=compact" align="right" width=44%/></div>
 <br />
