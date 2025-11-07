@@ -20,10 +20,10 @@
 ## About me  
   
 
-- 📚 I'm currently studying [Data Science](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) at University of Pisa, in Italy     
+- 📚 I recently graduated in [Data Science](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) at University of Pisa, in Italy     
   
 
-- 🎓 I got a bachelor's degree in Informatics for Humanities ([Informatica Umanistica](https://infouma.fileli.unipi.it/))    
+- 🎓 I got a bachelor's degree in Computational Humanities ([Informatica Umanistica](https://infouma.fileli.unipi.it/))    
   
 
 - 🔭 Fascinated by Machine Learning, Natural Language Processing and Computational Psycho- and Neuro-Linguistics  
