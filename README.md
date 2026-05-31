@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniele Borghesi
+# 👋 Hi, I'm Daniele
 
 ### 🚀 Data Science & AI Specialist | Research Fellow
 
@@ -102,10 +102,23 @@ I am a highly driven Data Science and Artificial Intelligence specialist passion
 
 ### 📊 My GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieleborghe&theme=nord&bg_color=1e222a&hide_border=true" alt="Daniele's Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleborghe&theme=nord" alt="Daniele's Git Streak" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="5">
+  <tr>
+    <!-- ROW 1: General Stats & Top Languages -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&theme=nord&count_private=true&locale=en" height="195" alt="Daniele's GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&layout=compact&theme=nord&locale=en" height="195" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <!-- ROW 2: GitHub Streak & Profile Trophies -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleborghe&theme=nord" height="195" alt="Daniele's Git Streak" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-profile-trophy.vercel.app/?username=danieleborghe&theme=nord&column=3&margin-w=15" height="195" alt="Daniele's Trophies" />
+    </td>
+  </tr>
+</table>
