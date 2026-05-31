@@ -103,8 +103,7 @@ I am a highly driven Data Science and Artificial Intelligence specialist passion
 ### 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=danieleborghe&show_icons=true&theme=nord&count_private=true" alt="Daniele's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=danieleborghe&layout=compact&theme=nord" alt="Top Languages" height="190" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieleborghe&theme=nord&bg_color=1e222a&hide_border=true" alt="Daniele's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
