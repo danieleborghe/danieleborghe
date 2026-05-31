@@ -1,63 +1,106 @@
-# **Hello World! 👋 I'm Daniele!**  
-  
+# 👋 Hi, I'm Daniele Borghesi
 
-<a href="https://github.com/danieleborghe" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/danieleborghesi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/danieleborghe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/danieleborghe" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
+### 🚀 Data Science & AI Specialist | Research Fellow
 
-<br/>  
+I am a highly driven Data Science and Artificial Intelligence specialist passionate about **Machine Learning, Natural Language Processing (NLP), and Explainable AI (XAI)**. My research and professional work focus on building responsible, fair, and high-performance AI systems, with practical experience spanning academic institutions (University of Pisa, UPV, ILC-CNR) and international authorities (European Banking Authority).
 
-## About me  
-  
+---
 
-- 📚 I recently graduated in [Data Science](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) at University of Pisa, in Italy     
-  
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/danieleborghesi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+</p>
 
-- 🎓 I got a bachelor's degree in Computational Humanities ([Informatica Umanistica](https://infouma.fileli.unipi.it/))    
-  
+---
 
-- 🔭 Fascinated by Machine Learning, Natural Language Processing and Computational Psycho- and Neuro-Linguistics  
-  
+### 🔧 Technical Toolbox
 
-- 🛰️ Interested in scientific research, technology, and politics, occasionally you can find me in the gym      
-  
+#### 🧠 Machine Learning, AI & NLP
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/NLTK-64B5F6?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-- 👽 Sci-Fi addicted    
-  
+#### 📊 Data Analysis, Stats & Visualization
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
+![](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white)
+![](https://img.shields.io/badge/SAS-007CC2?style=flat-square)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<br/>  
+#### 🗄️ Databases & Optimization
+![](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
+![](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/NetworkX-000000?style=flat-square)
+![](https://img.shields.io/badge/Google_OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white)
 
+---
 
-## What I'm using and learning  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-</div>  
+### 💼 Professional & Research Journey
 
-<br/>  
+*   **🔬 Research Fellow in Statistical Data Analytics & AI/NLP**
+    *   *University of Pisa — Informatics Department | 02/2025 – Ongoing*
+    *   Conducting experimental studies utilizing **Explainable AI (XAI)** techniques.
+    *   Analyzing experimental datasets to assess AI fairness perception and documenting research on algorithmic discrimination for the EU-funded **FINDHR** (Fairness in AI-Driven Recruitment) project.
+*   **🇪🇺 EU Trainee — Banking Data Analytics & Visualization**
+    *   *European Banking Authority (EBA), Statistics Unit — Paris, France | 09/2024 – 01/2025*
+    *   Processed large-scale banking and financial datasets using SAS and R.
+    *   Developed institutional dashboards and strategic visualization solutions for the **2024 EU-Wide Transparency Exercise**.
+*   **🇪🇸 Research Trainee in AI & NLP**
+    *   *Polytechnic University of Valencia (UPV) — Valencia, Spain | 07/2024*
+    *   Utilized and fine-tuned pre-trained Transformer models for engagement prediction and linguistic analyses.
+    *   Explored zero- and one-shot capabilities of Large Language Models (LLMs).
+*   **🇮🇹 Research Intern in AI & NLP**
+    *   *ILC-CNR (ItaliaNLP Lab) | 10/2021 – 12/2021*
+    *   Trained Machine Learning models to predict audience engagement from multimodal linguistic/acoustic data.
 
+---
 
-## Some Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" align="left" width=50%/>  
+### 📚 Selected Publications & Institutional Reports
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="right" width=42%/></div>
-<br />
+1.  **Conference Paper (NL4AI 2022)**
+    *   *What makes the audience engaged? Engagement prediction exploiting multimodal features*
+    *   Daniele Borghesi, Andrea Amelio Ravelli, Felice Dell'Orletta.
+2.  **Journal Article (Nutrients, 2024)**
+    *   *Intermittent fasting: Socio-economic profile of Spanish citizens who practice it and the influence of this dietary pattern...*
+    *   Elena Sandri, Daniele Borghesi, et al.
+3.  **Institutional Report (European Banking Authority, 2024)**
+    *   *Risk Assessment Report of the European Banking Authority - November 2024*
+    *   Contributions to the 2024 EU-Wide Transparency Exercise.
+
+---
+
+### 🏆 Education & Key Achievements
+
+*   **🎓 M.Sc. Data Science and Business Informatics** — University of Pisa (2022 – 2025)
+    *   *Grade:* **110/110 Cum Laude (Honors)** 🏅
+    *   *Erasmus+ Exchange Year:* Polytechnic University of Valencia (UPV)
+    *   *Award:* **Medal of Distinction** (Awarded to the best master's graduates of the year)
+*   **🎓 B.Sc. Computer Science / Informatics for the Humanities** — University of Pisa (2018 – 2022)
+    *   *Grade:* **110/110 Cum Laude (Honors)** 🏅
+    *   *Award:* **Medal of Distinction** (Awarded to the best bachelor's graduates of the year)
+*   **🇪🇺 EU Certification:** Successfully passed the competitive **EPSO CAST Reasoning Test** for ICT (EPSO/CAST/P/16/2017).
+
+---
+
+### 🗣️ Languages
+*   **Italian:** Native 🇮🇹
+*   **English:** Full Professional Proficiency (C1) 🇬🇧
+*   **Spanish:** Intermediate Working Proficiency (A2/B1) 🇪🇸
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danieleborghe&show_icons=true&theme=nord&count_private=true" alt="Daniele's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleborghe&layout=compact&theme=nord" alt="Top Languages" />
+</p>
