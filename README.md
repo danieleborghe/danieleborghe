@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Daniele
 
-### 🚀 Data Science & AI Specialist | Research Fellow
-
-I am a highly driven Data Science and Artificial Intelligence specialist passionate about **Machine Learning, Natural Language Processing (NLP), and Explainable AI (XAI)**. My research and professional work focus on building responsible, fair, and high-performance AI systems, with practical experience spanning academic institutions (University of Pisa, UPV, ILC-CNR) and international authorities (European Banking Authority).
-
----
-
-### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/danieleborghesi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,6 +8,10 @@ I am a highly driven Data Science and Artificial Intelligence specialist passion
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
 </p>
+
+### 🚀 Data Science & AI Specialist | Research Fellow
+
+I am a highly driven Data Science and Artificial Intelligence specialist passionate about **Machine Learning, Natural Language Processing (NLP), and Explainable AI (XAI)**. My research and professional work focus on building responsible, fair, and high-performance AI systems, with practical experience spanning academic institutions (University of Pisa, UPV, ILC-CNR) and international authorities (European Banking Authority).
 
 ---
 
